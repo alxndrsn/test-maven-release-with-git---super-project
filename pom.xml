@@ -12,6 +12,7 @@
 
 	<properties>
 		<github.projectName>test-maven-release-with-git---super-project</github.projectName>
+		<github.projectOwner>alxndrsn</github.projectOwner>
 	</properties>
 
 	<distributionManagement>
