@@ -42,4 +42,8 @@
 			</extension>
 		</extensions>
 	</build>
+
+	<modules>
+		<module>submodule</module>
+	</modules>
 </project>
