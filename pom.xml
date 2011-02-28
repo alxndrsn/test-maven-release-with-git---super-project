@@ -7,7 +7,7 @@
 
 	<scm>
 		<connection>scm:git://github.com/${github.projectOwner}/${github.projectName}.git</connection>
-		<developerConnection>scm:git:origin</developerConnection>
+		<developerConnection>scm:git:[fetch=]git@github.com:${github.projectOwner}/${github.projectName}.git[push=]origin</developerConnection>
 	</scm>
 
   <pluginRepositories>
